@@ -11,7 +11,7 @@
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
 ## הקדמה
-המאגר הזה נוצר במטרה לעזור למתכנתים לשפר את יכולות התכנות שלהם בשפת&#x202b; Javascript. הוא לא דרוש, אך משמש כמדריך להבנת נושאים מתקדמים יותר בשפה. הוא מבוסס על מאמר שכתב [סטיבן קורטיס](https://twitter.com/stephenthecurt) אשר ניתן לקרוא [כאן](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+המאגר הזה נוצר במטרה לעזור למתכנתים לשפר את יכולות התכנות שלהם בשפת&#x202b; Javascript. הוא לא דרוש, אך משמש כמדריך להבנת נושאים מתקדמים יותר בשפה. הוא מבוסס על מאמר שכתב [סטפן קורטיס](https://twitter.com/stephenthecurt) אשר ניתן לקרוא [כאן](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
 &#x202b;**🚀 נחשב ע"י GitHub כאחד [ממאגרי הקוד פתוח הטובים ביותר לשנת 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
