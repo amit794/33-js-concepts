@@ -1,22 +1,23 @@
-﻿<h1 align="center">
+﻿<div dir="rtl">
+ <h1 align="center">
 <br>
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 קונספטים שכל מתכנת Javascript צריך להכיר
-  <br><br>
+    &#x202b;33 קונספטים שכל מתכנת Javascript צריך להכיר
+    <br><br>
 </h1>
 
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
 ## הקדמה
-המאגר הזה נוצר במטרה לעזור למתכנתים לשפר את יכולות התכנות שלהם בשפת Javascript. הוא לא דרוש, אך משמש כמדריך להבנת נושאים מתקדמים יותר בשפה. הוא מבוסס על מאמר שכתב [סטיבן קורטיס](https://twitter.com/stephenthecurt) אשר ניתן לקרוא [כאן](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+המאגר הזה נוצר במטרה לעזור למתכנתים לשפר את יכולות התכנות שלהם בשפת&#x202b; Javascript. הוא לא דרוש, אך משמש כמדריך להבנת נושאים מתקדמים יותר בשפה. הוא מבוסס על מאמר שכתב [סטיבן קורטיס](https://twitter.com/stephenthecurt) אשר ניתן לקרוא [כאן](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 נחשב ע"י GitHub כאחד [מאגרי הקוד פתוח הטובים ביותר לשנת 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+&#x202b;**🚀 נחשב ע"י GitHub כאחד [ממאגרי הקוד פתוח הטובים ביותר לשנת 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## קהילה
 
-תרגישו חופשי להגיש PR ע"י הוספת לינק למאמר או ביקורת שלכם. אם אתם מעוניינם בתרגום המאגר לשפה שלכם, תרגישו חופשי לעשות זאת.
+תרגישו חופשי להגיש&#x202b; PR ע"י הוספת לינק למאמר או ביקורת שלכם. אם אתם מעוניינם בתרגום המאגר לשפה שלכם, תרגישו חופשי לעשות זאת.
 כל התרגומים הקיימים נמצאים כאן למטה:
 
 - [סינית](https://github.com/stephentian/33-js-concepts) — Re Tian
@@ -38,6 +39,7 @@
 - [סינהלית](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
 - [עברית](https://github.com/amit794/33-js-concepts) — Amit Sides
 
+</div>
 
 ---
 
